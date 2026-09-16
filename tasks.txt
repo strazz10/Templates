@@ -2,9 +2,5 @@
 #Every other line is treated as an unfinished task.
 
 [x] test
+[ ] test
 
-[ ] plotter lab
-[ ] regalo
-[ ] tasse
-[ ] migrazione codeberg tesi 
-[ ] muovere how_to_terminal in un comando nel terminal
