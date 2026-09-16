@@ -1,0 +1,10 @@
+#USE: mark unfinished tasks with [ ], finished ones with [x]. 
+#Every other line is treated as an unfinished task.
+
+[x] test
+
+[ ] plotter lab
+[ ] regalo
+[ ] tasse
+[ ] migrazione codeberg tesi 
+[ ] muovere how_to_terminal in un comando nel terminal
