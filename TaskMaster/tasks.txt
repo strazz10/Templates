@@ -1,0 +1,5 @@
+#USE: mark unfinished tasks with [ ], finished ones with [x]. 
+#Every other line is treated as an unfinished task.
+
+[x] test finished task
+[ ] test unfinished task
