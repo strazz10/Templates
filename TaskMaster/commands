@@ -1,0 +1,6 @@
+# my task reminder aliases (might need mkdir -p ~/.local/share/tasks and mkdir -p ~/.local/bin for the folders to exist)
+alias taskmaster='nano ~/.local/share/tasks/tasks.txt'
+alias taskreminder='~/.local/bin/show-tasks.sh'
+
+# autostart command
+bash -c "sleep 4 && xfce4-terminal --command=/home/"USERNAME"/.local/bin/show-tasks.sh"
